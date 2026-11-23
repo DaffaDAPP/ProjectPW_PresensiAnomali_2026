@@ -1,0 +1,28 @@
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-auth {
+    max-width: 420px;
+    margin: 70px auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    border: none;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+.badge-anomali {
+    font-size: 0.85em;
+    padding: 6px 10px;
+}
+
+.logout:hover {
+    background: white;
+    border-color: white;
+    color: black;
+}
